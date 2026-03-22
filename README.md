@@ -1,3 +1,12 @@
+## ⚠️ Aviso Importante y Descargo de Responsabilidad
+
+Este software es una **herramienta de análisis estadístico y educativo**, diseñada para explorar patrones históricos mediante Inteligencia Artificial. Es fundamental tener en cuenta lo siguiente:
+
+1. **Naturaleza del Juego**: La Lotería Primitiva es, por definición, un **juego de azar**. Cada sorteo es un evento independiente y aleatorio.
+2. **Sin Garantías**: El uso de este script **no garantiza en ningún caso la obtención de premios**. La IA ayuda a seleccionar combinaciones basadas en frecuencias pasadas, pero no puede predecir el futuro con exactitud ni eliminar el factor suerte.
+3. **No es Exacto**: Los modelos matemáticos (Clustering, Filtros de Suma y Paridad) sirven para acotar las probabilidades a rangos históricamente comunes, pero los resultados generados son solo **sugerencias estadísticas**, no números ganadores asegurados.
+4. **Juego Responsable**: Utilice este programa solo como entretenimiento. Nunca gaste dinero que no pueda permitirse perder. El autor de este código no se hace responsable de las pérdidas económicas derivadas del uso de estas combinaciones.
+
 # 🎰 Simulador Primitiva IA Pro v2.0
 
 Este software avanzado utiliza **Machine Learning** y **filtros de exclusión estadística** para generar combinaciones de lotería basadas en el histórico real (1986-2026).
